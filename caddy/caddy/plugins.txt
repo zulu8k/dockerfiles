@@ -1,0 +1,1 @@
+github.com/hslatman/caddy-crowdsec-bouncer/crowdsec
